@@ -1,0 +1,19 @@
+{
+
+version
+	{
+	number 4.01
+	}
+actor pilot_body:1
+	{
+	on
+	}
+actor pilot_head:1
+	{
+	on
+	}	
+actor pilot_glass:1
+	{
+	on
+	}	
+}

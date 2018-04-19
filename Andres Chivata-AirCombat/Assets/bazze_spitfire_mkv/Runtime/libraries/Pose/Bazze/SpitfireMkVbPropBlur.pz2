@@ -1,0 +1,19 @@
+{
+
+version
+	{
+	number 4.01
+	}
+actor prophub_spin:1
+	{
+	on
+	}
+actor prop_spin:1
+	{
+	on
+	}	
+actor propeller:1
+	{
+	off
+	}	
+}
